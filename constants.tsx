@@ -131,10 +131,10 @@ export const SERVICES_DATA: Service[] = [
 ];
 
 export const ARTISTS_DATA: Artist[] = [
-  { id: '1', name: 'Rizky Maulana', role: 'Barber Senior', image: 'https://picsum.photos/seed/artist1id/400/500', socials: { facebook: '#', twitter: '#', instagram: '#', tiktok: '#' } },
-  { id: '2', name: 'Andika Pratama', role: 'Barber Junior', image: 'https://picsum.photos/seed/artist2id/400/500', socials: { facebook: '#', twitter: '#', instagram: '#', tiktok: '#' } },
-  { id: '3', name: 'Budi Santoso', role: 'Barber Baru', image: 'https://picsum.photos/seed/artist3id/400/500', socials: { facebook: '#', twitter: '#', instagram: '#', tiktok: '#' } },
-  { id: '4', name: 'Agus Wijaya', role: 'Master Barber', image: 'https://picsum.photos/seed/artist4id/400/500', socials: { facebook: '#', twitter: '#', instagram: '#', tiktok: '#' } },
+  { id: '1', name: 'Rizky Maulana', role: 'Barber Senior', image: 'https://images.unsplash.com/photo-1741345980697-f3c43eba44a0?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', socials: { facebook: '#', twitter: '#', instagram: '#', tiktok: '#' } },
+  { id: '2', name: 'Andika Pratama', role: 'Barber Junior', image: 'https://images.unsplash.com/photo-1639511177364-0866c0da16fa?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', socials: { facebook: '#', twitter: '#', instagram: '#', tiktok: '#' } },
+  { id: '3', name: 'Budi Santoso', role: 'Barber Baru', image: 'https://images.unsplash.com/photo-1589315876349-1201fd1baaef?q=80&w=1504&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', socials: { facebook: '#', twitter: '#', instagram: '#', tiktok: '#' } },
+  { id: '4', name: 'Agus Wijaya', role: 'Master Barber', image: 'https://images.unsplash.com/photo-1693756222675-a4b88ff09975?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', socials: { facebook: '#', twitter: '#', instagram: '#', tiktok: '#' } },
 ];
 
 export const TESTIMONIALS_DATA: Testimonial[] = [
