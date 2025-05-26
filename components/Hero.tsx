@@ -10,7 +10,7 @@ export const Hero: React.FC = () => {
   return (
     <section 
       className="relative h-[80vh] md:h-[90vh] bg-cover bg-center bg-no-repeat flex items-center"
-      style={{ backgroundImage: "url('https://picsum.photos/seed/hero/1920/1080')" }}
+      style={{ backgroundImage: "url('https://images.unsplash.com/photo-1503951914875-452162b0f3f1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')" }}
       aria-label={ALT_TEXT_HERO_BACKGROUND}
     >
       <div className="absolute inset-0 bg-black opacity-60"></div>
