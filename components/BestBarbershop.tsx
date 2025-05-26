@@ -24,7 +24,7 @@ export const BestBarbershop: React.FC = () => {
           <div className="lg:w-1/2 flex justify-center animate-fadeInLeft" style={{animationDelay: '0.4s'}}>
             <div className="relative w-full max-w-md group">
               <img 
-                src="https://picsum.photos/seed/barbercare/500/550" 
+                src="https://images.unsplash.com/photo-1605497788044-5a32c7078486?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
                 alt={ALT_TEXT_BEARD_CARE}
                 className="rounded-lg shadow-2xl object-cover w-full h-auto transform group-hover:scale-105 transition-transform duration-300"
               />
