@@ -53,7 +53,7 @@ export const Experience: React.FC = () => {
               <div className="absolute -top-4 -left-4 w-full h-full border-4 border-[#C6A477] rounded-lg transform rotate-[-3deg]"></div>
               <div className="relative rounded-lg overflow-hidden shadow-2xl transform rotate-1 hover:rotate-0 transition-transform duration-300">
                  <img 
-                    src="https://picsum.photos/seed/experience/500/600" 
+                    src="https://images.unsplash.com/photo-1598524374912-6b0b0bab43dd?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
                     alt={ALT_TEXT_EXPERIENCED_BARBER}
                     className="w-full h-auto object-cover"
                 />
