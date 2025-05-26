@@ -63,7 +63,7 @@ export const SatisfiedYou: React.FC = () => {
             <div className="flex flex-col md:flex-row gap-8 mt-8 items-start">
                  <div className="md:w-1/2 relative group animate-fadeInUp" style={{animationDelay: '0.4s'}}>
                     <img 
-                        src="https://picsum.photos/seed/satisfied/600/400" 
+                        src="https://images.unsplash.com/photo-1693755807658-17ce5331aacb?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
                         alt={ALT_TEXT_SATISFIED_CUSTOMER}
                         className="rounded-lg shadow-xl w-full h-auto object-cover transform group-hover:shadow-2xl transition-shadow duration-300"
                     />
